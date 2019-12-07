@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>339425931696-5mlvpts20vgm3qagqqhvt6idhtk68cub.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.339425931696-5mlvpts20vgm3qagqqhvt6idhtk68cub</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>339425931696-20qpcfadk2jphs0i7ukghte93g6kgjrc.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDwDjStX8ez4ZiSfWFbcdOjnWhtz1el4Yc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>339425931696</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.sumon.videoapp</string>
+	<key>PROJECT_ID</key>
+	<string>testproject-e42bd</string>
+	<key>STORAGE_BUCKET</key>
+	<string>testproject-e42bd.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:339425931696:ios:70b70e844613190793e675</string>
+	<key>DATABASE_URL</key>
+	<string>https://testproject-e42bd.firebaseio.com</string>
+</dict>
+</plist>

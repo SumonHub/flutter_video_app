@@ -1,0 +1,207 @@
+{
+  "project_info": {
+    "project_number": "339425931696",
+    "firebase_url": "https://testproject-e42bd.firebaseio.com",
+    "project_id": "testproject-e42bd",
+    "storage_bucket": "testproject-e42bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339425931696:android:1264372862a60793",
+        "android_client_info": {
+          "package_name": "com.sumon.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339425931696-uv4q9t4vqnqqafgoqadvt6800a52747g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sumon.firebase",
+            "certificate_hash": "950cecff972ac5b00f470306523c7b6870e82a86"
+          }
+        },
+        {
+          "client_id": "339425931696-et7gnsan53k4r8mc76c3ot8c350ecpc4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAbe-C-U69xD0MEn2rj50CR6wkxqPezn0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339425931696-et7gnsan53k4r8mc76c3ot8c350ecpc4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "339425931696-21v6gqcromtvubq34oskma1ut956bc9t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sumon.test"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339425931696:android:24ba9e7d55dfa557",
+        "android_client_info": {
+          "package_name": "com.sumon.firebaseUi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339425931696-et7gnsan53k4r8mc76c3ot8c350ecpc4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAbe-C-U69xD0MEn2rj50CR6wkxqPezn0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339425931696-et7gnsan53k4r8mc76c3ot8c350ecpc4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "339425931696-21v6gqcromtvubq34oskma1ut956bc9t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sumon.test"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339425931696:android:2a421de8f6cf6f81",
+        "android_client_info": {
+          "package_name": "com.sumon.firestoredemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339425931696-20qpcfadk2jphs0i7ukghte93g6kgjrc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sumon.firestoredemo",
+            "certificate_hash": "950cecff972ac5b00f470306523c7b6870e82a86"
+          }
+        },
+        {
+          "client_id": "339425931696-et7gnsan53k4r8mc76c3ot8c350ecpc4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAbe-C-U69xD0MEn2rj50CR6wkxqPezn0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339425931696-et7gnsan53k4r8mc76c3ot8c350ecpc4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "339425931696-21v6gqcromtvubq34oskma1ut956bc9t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sumon.test"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339425931696:android:1510bc518cc5b47493e675",
+        "android_client_info": {
+          "package_name": "com.sumon.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339425931696-et7gnsan53k4r8mc76c3ot8c350ecpc4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAbe-C-U69xD0MEn2rj50CR6wkxqPezn0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339425931696-et7gnsan53k4r8mc76c3ot8c350ecpc4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "339425931696-21v6gqcromtvubq34oskma1ut956bc9t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sumon.test"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339425931696:android:162cde248b614f0993e675",
+        "android_client_info": {
+          "package_name": "com.sumon.video_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339425931696-et7gnsan53k4r8mc76c3ot8c350ecpc4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAbe-C-U69xD0MEn2rj50CR6wkxqPezn0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339425931696-et7gnsan53k4r8mc76c3ot8c350ecpc4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "339425931696-21v6gqcromtvubq34oskma1ut956bc9t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sumon.test"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
